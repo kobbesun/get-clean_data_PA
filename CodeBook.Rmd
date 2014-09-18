@@ -2,7 +2,9 @@
 title: "CodeBook of Getting and Cleaning Data Course Project Outcome Data Set "
 author: "SUN Lei"
 date: "09/18/2014"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 ### Background Information
